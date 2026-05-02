@@ -1,0 +1,17 @@
+[
+  {
+    "sender": "User",
+    "message": "hi",
+    "emotion": "Neutral"
+  },
+  {
+    "sender": "User",
+    "message": "HOW ARE YOu",
+    "emotion": "Neutral"
+  },
+  {
+    "sender": "User",
+    "message": "Uploaded Image",
+    "emotion": "stole"
+  }
+]
